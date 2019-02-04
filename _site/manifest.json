@@ -1,0 +1,15 @@
+{
+  "lang": "pt-BR",
+  "name": "MTB - MarvioRocha.Com",
+  "short_name": "MTB-MarvioRocha.Com",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
