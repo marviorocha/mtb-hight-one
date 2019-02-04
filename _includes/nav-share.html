@@ -1,4 +1,6 @@
 <div class="share">
+
+<p>{% include site-newsletter.html %}</p>
   {% for network in site.sharing_links %}
     {% assign name = network[0] %}
     {% assign id = network[0] | downcase | remove: " " %}
