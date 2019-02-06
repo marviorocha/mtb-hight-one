@@ -5,7 +5,7 @@ categories:
 feature_image: "https://loremflickr.com/1300/400/mtb?lock=10"
 ---
 
-Vamos começar nossa aventura e falar um pouco sobre a bike que estou montando. Fui comprando peça por peça no Mercado Livre e em lojas da online.
+Vamos começar aqui nossa aventura e falar sobre o mundo das e principalmente a bike que estou montando. Se você, assim como eu vai comprando peça por peça no Mercado Livre e em lojas virtuais.
 
 {% include google-ads.html %}
 <!-- more -->
