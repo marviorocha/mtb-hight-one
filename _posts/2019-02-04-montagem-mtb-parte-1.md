@@ -5,7 +5,7 @@ categories:
 feature_image: "https://loremflickr.com/1300/400/mtb?lock=10"
 ---
 
-Vamos começar aqui nossa aventura e falar sobre o mundo das e principalmente a bike que estou montando. Se você, assim como eu vai comprando peça por peça no Mercado Livre e em lojas virtuais.
+Vamos começar aqui nossa aventura e falar sobre o mundo das bikes principalmente sobre a bike que estou montando. Se você que assim como Eu, vai comprando peça por peça no Mercado Livre em lojas virtuais.
 
 {% include google-ads.html %}
 <!-- more -->
@@ -13,7 +13,7 @@ Vamos começar aqui nossa aventura e falar sobre o mundo das e principalmente a 
 
 
 
-Hoje, resolvi trazer toda a minha aventura de montar uma bike. Esses post também poderá servir como guia para você se basear e montar a sua. E uma das coisas é você comprar no tempo que seu bolso permitir. Para isso tenha paciência.
+Hoje, resolvi trazer toda a minha aventura e montar a minha nova bike com peças novas. Esses post também poderá servir como guia para você se basear e montar a sua também. E uma das melhores coisas é você comprar no tempo que seu bolso permitir. Para isso, você vai precisar de ter bastante paciência.
 
 Existem algumas vantagens e desvantagens em começar montar uma bike vou compartilhar para você a minha experiência de como está sendo a montagem da minha **MTB**.
 
