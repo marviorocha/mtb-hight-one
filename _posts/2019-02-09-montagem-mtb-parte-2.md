@@ -18,14 +18,16 @@ O pessoal que tiver me acompanhando nos post desse “blog” não percam porque
 
 
 ## Vamos falar sobre o canote
-{% include google-ads.html %}
+
 Comprindo nossa pauta de hoje, vamos falar a respeito de canote. Então vou falar em resumo, como foi um sofrimento para achar um canote no tamanho ideal para meu quadro **Hight One Revolution**.
 
 Sabendo que cada quadro existe um tamanho específico para cada canote e o mais comum é o de: 27.2, 30.9 e o de 31.6 pensando nisso, você já pode partir para compra do canote ideal para sua bike.
 
+{% include google-ads.html %}
+
 O canote que escolhi foi este: UNO **Kalloy Uno Sp368**.
 
-{% include figure.html image="mtb-hight-one/assets/images/canote.jpg" alt="Canote Bike Hight One" %}
+{% include figure.html image="https://mtb.marviorocha.com/assets/images/canote.jpg" alt="Canote Bike Hight One" %}
 
 O preço que paguei foi de **R$62,00 com frete grátis**.
 
